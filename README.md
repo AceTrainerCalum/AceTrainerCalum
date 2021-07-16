@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ace_trainer_calum_</h1>
+<h1 align="center">Hi 👋, I'm Ace_trainer_calum</h1>
 <h3 align="center">i a year-9 computer science and it specalist</h3>
 
 - 🔭 I’m currently working on **learning python**
