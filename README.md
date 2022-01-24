@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **learning python**
 
-- 🌱 I’m currently learning **Discord.js**
+- 🌱 I’m currently learning **Discord.py**
 
-- 👯 I’m looking to collaborate on **JavaScript so i can get better**
+- 👯 I’m looking to collaborate on **python for school**
 
 - 💬 Ask me about **python commands**
 
